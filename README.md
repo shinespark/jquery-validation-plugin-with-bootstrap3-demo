@@ -8,4 +8,4 @@ $ bower install
 $ browser-sync start --config bs-config.js
 ```
 
-access to `http://localhost:3001` !
+access to `http://localhost:3000` !
