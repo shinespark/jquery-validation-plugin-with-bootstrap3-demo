@@ -1,0 +1,22 @@
+{
+  "name": "jquery-validation-plugin-with-bootstrap3-demo",
+  "homepage": "https://github.com/shinespark/jquery-validation-plugin-with-bootstrap3-demo",
+  "authors": [
+    "shinespark <shinespark64@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery-validation": "~1.14.0"
+  }
+}
